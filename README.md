@@ -4,6 +4,7 @@
 This project showcases an end to end ML pipeline of customers' credit score predictions comprising "Dataset Preparation & Exploratory Analysis", "Model Development & Performance Validation", "Model Deployment & Inference", and "Dashboard & Visualization". 
 The datasets ("train.csv" and "test.csv") are obtained from a Kaggle dataset page: https://www.kaggle.com/datasets/parisrohan/credit-score-classification
 
+please download these datasets from the Kaggle page and put them in a "Dataset/" folder
 
 The **Credit Score** categories comprising three classes (`Good`, `Standard`, `Poor`).
 
