@@ -45,20 +45,20 @@ how to run:
 
 4. **Dashboard & Visualization** => load prediction result "Dataset/preprocessed_test dataset.csv", create a streamlit dashboard and data visualization, comprising:
 
-![Predictions Table](Dashboard_CS Predictions Table.png)
+![Predictions Table](Dashboard_CS%20Predictions%20Table.png)
 
 A. "Credit Score distribution": overall distribution of predicted credit score
 
-![Credit Score distribution](Dashboard_CS Distribution.png)
+![Credit Score distribution](Dashboard_CS%20Distribution.png)
 
 
 B. "Customer Drill-Down": a customer name selection to showcase monthly trends of balance, total EMI, and total investment
 
-![Monthly Balance](Dashboard_Monthly Balance.png)
+![Monthly Balance](Dashboard_Monthly%20Balance.png)
 
-![Monthly Total EMI](Dashboard_Total EMI.png)
+![Monthly Total EMI](Dashboard_Total%20EMI.png)
 
-![Monthly Total Investment](Dashboard_Total Investment.png)
+![Monthly Total Investment](Dashboard_Total%20Investment.png)
 
 
 repository file: "Streamlit Dashboard.py"
