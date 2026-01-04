@@ -43,7 +43,7 @@ how to run:
    python "Model Deployment and Inference.py"
    ```
 
-4. **Dashboard & Visualization** => load prediction result "Dataset/preprocessed_test dataset.csv", create a streamlit dashboard and data visualization, comprising:
+4. **Dashboard & Visualization** => load prediction result "Dataset/preprocessed_test dataset.csv", create a streamlit dashboard and data visualization
 
 ![Predictions Table](Dashboard_Predictions%20Table.png)
 
