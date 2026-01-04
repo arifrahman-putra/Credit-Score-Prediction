@@ -1,6 +1,5 @@
 .venv/
 Dataset/
 Saved Models/
-*.png
 *.pkl
 *.keras
