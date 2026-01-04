@@ -49,7 +49,7 @@ how to run:
 
 A. "Credit Score distribution": overall distribution of predicted credit score
 
-![Credit Score distribution]("Dashboard_CS Distribution.png")
+![Credit Score distribution](Dashboard_CS Distribution.png)
 
 
 B. "Customer Drill-Down": a customer name selection to showcase monthly trends of balance, total EMI, and total investment
