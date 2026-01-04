@@ -47,6 +47,8 @@ how to run:
 
 ![Predictions Table](Dashboard_Predictions%20Table.png)
 
+comprising:
+
 A. "Credit Score distribution": overall distribution of predicted credit score
 
 ![Credit Score distribution](Dashboard_CS%20Distribution.png)
