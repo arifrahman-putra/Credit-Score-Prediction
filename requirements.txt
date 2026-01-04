@@ -1,0 +1,12 @@
+pandas
+numpy
+regex
+scikit-learn
+xgboost
+lightgbm
+keras
+joblib
+seaborn
+matplotlib
+streamlit
+plotly
