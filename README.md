@@ -45,7 +45,7 @@ how to run:
 
 4. **Dashboard & Visualization** => load prediction result "Dataset/preprocessed_test dataset.csv", create a streamlit dashboard and data visualization, comprising:
 
-![Predictions Table](Dashboard_CS%20Predictions%20Table.png)
+![Predictions Table](Dashboard_Predictions%20Table.png)
 
 A. "Credit Score distribution": overall distribution of predicted credit score
 
