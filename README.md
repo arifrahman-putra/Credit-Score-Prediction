@@ -44,13 +44,20 @@ how to run:
    ```
 
 4. **Dashboard & Visualization** => load prediction result "Dataset/preprocessed_test dataset.csv", create a streamlit dashboard and data visualization, comprising:
+
+![Predictions Table](Dashboard_CS Predictions Table.png)
+
 A. "Credit Score distribution": overall distribution of predicted credit score
+
 ![Credit Score distribution](Dashboard_CS Distribution.png)
 
 
 B. "Customer Drill-Down": a customer name selection to showcase monthly trends of balance, total EMI, and total investment
+
 ![Monthly Balance](Dashboard_Monthly Balance.png)
+
 ![Monthly Total EMI](Dashboard_Total EMI.png)
+
 ![Monthly Total Investment](Dashboard_Total Investment.png)
 
 
@@ -98,6 +105,7 @@ project-root/
 ├── standard_scaler.pkl
 │
 ├── Dashboard_CS Distribution.png
+├── Dashboard_Predictions Table.png
 ├── Dashboard_Monthly Balance.png
 ├── Dashboard_Total EMI.png
 ├── Dashboard_Total Investment.png
